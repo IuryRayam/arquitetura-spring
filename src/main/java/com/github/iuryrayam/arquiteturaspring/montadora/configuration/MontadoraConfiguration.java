@@ -2,6 +2,7 @@ package com.github.iuryrayam.arquiteturaspring.montadora.configuration;
 
 import com.github.iuryrayam.arquiteturaspring.montadora.Motor;
 import com.github.iuryrayam.arquiteturaspring.montadora.TipoMotor;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
